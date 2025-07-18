@@ -1,0 +1,12 @@
+# Ignore nested git repo that caused errors
+spring-jdbc-crud/
+
+# General IntelliJ & Java ignore rules
+*.class
+*.log
+*.iml
+.idea/
+target/
+out/
+.DS_Store
+Thumbs.db
